@@ -1,0 +1,36 @@
+.xImage {
+  position: absolute;
+  z-index: 0;
+  width: 100%;
+  height: 100px;
+}
+.overlay {
+  z-index: 100;
+  position: absolute;
+  vertical-align: middle;
+  margin: auto;
+}
+
+.row-style{
+  border-color: red;
+  border-width: 0px;
+  border-style: solid;
+  margin-top: 10px;
+}
+
+.col-style{
+  border-color: red;
+  border-width: 0px;
+  border-style: solid;
+}
+
+button{
+  vertical-align: bottom;
+  width: 35px;
+  height: 35px;
+  margin-left: 10px;
+}
+
+p{
+  font-size: 35
+}
