@@ -63,7 +63,8 @@ font-family: 'Merriweather', serif;
   filter: blur(9px);
 }
 h4{
-  ont-family: 'Merriweather', serif;
+font-family: 'Inconsolata', monospace;
+font-size: 30px
 }
 
 iframe{
