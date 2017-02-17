@@ -38,3 +38,34 @@ html{
 .title{
   color: white;
 }
+h2{
+  font-family: 'Sansita', sans-serif;
+  font-style: bold;
+  font-size: 35px;
+}
+body{
+  background: #222;
+color: #fff;
+fill: #fff;
+}
+
+a{
+  color:   #ff5252 !important;
+stroke: #ff5252 !important;
+stroke-width: .1px
+}
+
+h1{
+font-family: 'Merriweather', serif;
+  font-size: 45px
+}
+.blur-me {
+  filter: blur(9px);
+}
+h4{
+  ont-family: 'Merriweather', serif;
+}
+
+iframe{
+  border-color: black; border-style: solid;
+}
