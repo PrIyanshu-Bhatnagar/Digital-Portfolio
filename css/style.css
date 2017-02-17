@@ -24,10 +24,10 @@
   border-style: solid;
 }
 
-button{
+.one{
   vertical-align: bottom;
-  width: 35px;
-  height: 35px;
+  width: 55px;
+  height: 55px;
   margin-left: 10px;
 }
 
