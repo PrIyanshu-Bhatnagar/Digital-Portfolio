@@ -15,7 +15,7 @@
   border-color: red;
   border-width: 0px;
   border-style: solid;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 .col-style{
@@ -31,6 +31,10 @@ button{
   margin-left: 10px;
 }
 
-p{
+.font-25{
   font-size: 35
+}
+html{
+  overflow-x: hidden;
+  max-width: 100%;
 }
