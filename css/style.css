@@ -26,9 +26,11 @@
 
 .one{
   vertical-align: bottom;
-  width: 55px;
-  height: 55px;
+  width: 70px;
+  height: 70px;
   margin-left: 10px;
+  right: 7pt;
+  margin-bottom: 20px;
 }
 
 html{
@@ -53,6 +55,7 @@ a{
   color:   #ff5252 !important;
 stroke: #ff5252 !important;
 stroke-width: .1px
+font-size: 35px;
 }
 
 h1{
@@ -69,5 +72,23 @@ font-size: 30px
 
 iframe{
   border-color: black; border-style: solid;
+}
+
+.footer {
+
+    height:100px; // Replace with the height your footer should be
+    width: 100%; // Don't change
+    background-image: none;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0pt;
+    right: 25pt;
+    margin-left: 20px
+    margin-right:20px;
+    background: #222;
+    color: #fff;
+    min-width: 100%
 }
 
